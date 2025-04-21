@@ -1,0 +1,18 @@
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environnement virtuel
+env/
+.venv/
+venv/
+
+# Temp Dagster
+.tmp_dagster_home*/
+
+# Base de données locale
+*.db
+
+# Autres fichiers
+.DS_Store
